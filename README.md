@@ -26,3 +26,5 @@ Admin can delete a question by long clicking on it.
 3. Gson
 4. Admobs
 5. Apache POI
+
+##### For Quizzer Amin access contact me.
